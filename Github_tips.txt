@@ -1,0 +1,9 @@
+How to make a visually friendly github?
+
+1) Install the https://github.com/ipython-contrib/jupyter_contrib_nbextensions
+
+
+2) Render the web page using https://nbviewer.jupyter.org/
+
+
+
